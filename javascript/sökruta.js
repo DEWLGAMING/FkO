@@ -1,7 +1,7 @@
 const f = document.getElementById('form');
 const q = document.getElementById('query');
 const google = 'https://www.google.com/search?q=site%3A+';
-const site = 'https://dewlgaming.github.io/Mitt-CV/';
+const site = 'https://dewlgaming.github.io/FkO/';
 
 function submitted(event) {
   event.preventDefault();
